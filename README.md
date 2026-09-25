@@ -1,3 +1,5 @@
+## 🚀 Live Demo
+[View Live Site](https://aurelia-frontend-fawn.vercel.app/)
 # Aurelia — Frontend Development Best Practices
 
 Aurelia is a modern, responsive frontend project developed with React as part of a Frontend Development internship task.
