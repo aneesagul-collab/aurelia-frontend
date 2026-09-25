@@ -95,6 +95,8 @@ aurelia-frontend/
 │   └── main.jsx
 │
 ├── .gitignore
+├── .oxlintrc.json
+├── index.html
 ├── package.json
 ├── package-lock.json
 ├── vite.config.js
